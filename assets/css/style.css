@@ -526,6 +526,15 @@ header.fixed-top-page {
   }
 }
 
+
+
+
+#home p{
+  text-align: justify;
+  width: 96%;
+  margin: auto;
+  padding-bottom: 20px;
+}
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
@@ -658,6 +667,7 @@ section {
 }
 
 .about .content p {
+  text-align: justify;
   margin-bottom: 30px;
 }
 
